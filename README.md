@@ -1,11 +1,5 @@
 # Databricks Certified Generative AI Engineer Associate - Guia de Estudos
 
-## 🚨 PROVA EM 4 DIAS?
-
-**[→ CLIQUE AQUI para o Plano Intensivo de 4 Dias ←](./PREPARACAO-4-DIAS.md)**
-
-Plano emergencial focado nos tópicos de maior peso no exame!
-
 ---
 
 ## Sobre a Certificacao
